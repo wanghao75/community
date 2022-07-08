@@ -1,2 +1,2 @@
 # community
-test repos
+test repos test freeze
