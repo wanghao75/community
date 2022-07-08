@@ -1,0 +1,7 @@
+release:
+- branch: master
+  community:
+  - wanghao75
+  frozen: false
+  owner:
+  - shalldows
