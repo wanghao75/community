@@ -5,3 +5,9 @@ release:
   frozen: false
   owner:
   - shalldows
+- branch: test
+  community:
+  - wanghao75
+  frozen: true
+  owner:
+  - shalldows
