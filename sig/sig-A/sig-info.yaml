@@ -11,7 +11,7 @@ maintainers:
   email: 2467577789@qq.com
 repositories:
 - repo: 
-  - wanghao75/testjob2
+  - newwanghao/testjob
   committers:
   - gitee_id: wwwwanghao
     name: xxl
