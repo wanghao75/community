@@ -1,6 +1,9 @@
-name: testjob2
+name: testjob6
+rename_from: testjob4
 description: ""
 branches:
 - name: master
+  type: protected
+- name: t6
   type: protected
 type: public

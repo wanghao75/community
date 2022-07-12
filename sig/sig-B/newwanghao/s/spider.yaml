@@ -1,4 +1,4 @@
-name: testjob
+name: spider
 description: ""
 branches:
 - name: master
