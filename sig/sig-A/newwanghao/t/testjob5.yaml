@@ -1,0 +1,9 @@
+name: testjob5
+description: ""
+branches:
+- name: master
+  type: protected
+- name: test1
+  create_from: 
+  type: protected
+type: public
