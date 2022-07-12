@@ -1,6 +1,0 @@
-name: testjob
-description: ""
-branches:
-- name: master
-  type: protected
-type: public
