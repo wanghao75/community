@@ -6,4 +6,7 @@ branches:
 - name: test1
   create_from: 
   type: protected
+- name: test2
+  create_from: test1
+  type: protected
 type: public
