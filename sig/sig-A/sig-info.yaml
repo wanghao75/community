@@ -11,7 +11,6 @@ maintainers:
   email: 2467577789@qq.com
 repositories:
 - repo: 
-  - newwanghao/testjob3
   - newwanghao/testjob5
   - newwanghao/testjob6
   committers:
