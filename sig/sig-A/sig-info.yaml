@@ -12,7 +12,8 @@ maintainers:
 repositories:
 - repo: 
   - newwanghao/testjob3
+  - newwanghao/testjob5
   committers:
-  - gitee_id: wwwwanghao
+  - gitee_id: songqianwh
     name: xxl
     email: 4564656@qq.com
