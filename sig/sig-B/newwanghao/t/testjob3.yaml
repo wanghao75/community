@@ -1,0 +1,8 @@
+name: testjob3
+description: ""
+branches:
+- name: master
+  type: protected
+- name: sig-B
+  type: protected
+type: public
